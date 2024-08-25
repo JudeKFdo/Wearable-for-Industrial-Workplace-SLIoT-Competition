@@ -1,4 +1,5 @@
 # Smart Wearable for Workplace Safety
+NOTE: This is a fork of the [original repository](https://github.com/k-ranasinghe/Wearable-for-Industrial-Workplace-SLIoT-Competition).
 
 ## Overview
 
